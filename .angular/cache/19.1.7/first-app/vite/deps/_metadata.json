@@ -1,23 +1,32 @@
 {
-  "hash": "37b26264",
-  "configHash": "2467f091",
+  "hash": "ea7d6621",
+  "configHash": "39310e98",
   "lockfileHash": "a0d48911",
-  "browserHash": "158e0689",
+  "browserHash": "52a27f60",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "fa2d9c0e",
+      "fileHash": "f93b02f2",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "fce8501e",
+      "fileHash": "4f0ec452",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "bcd644c6",
       "needsInterop": false
     }
   },
   "chunks": {
+    "chunk-AVAVAOJL": {
+      "file": "chunk-AVAVAOJL.js"
+    },
     "chunk-SH42JOCP": {
       "file": "chunk-SH42JOCP.js"
     }
